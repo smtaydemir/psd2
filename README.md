@@ -1,4 +1,4 @@
-# psd2
+# psd2 ![NPM Version](https://img.shields.io/npm/v/psd2.svg) ![NPM License](https://img.shields.io/npm/l/psd2.svg) ![Downloads](https://img.shields.io/npm/dt/psd2.svg)
 
 :art: psd to png from your terminal
 
